@@ -1,0 +1,19 @@
+body{
+   
+}
+.card{
+    height:175px;
+    width: 300px;
+    
+}
+textarea{
+    height: 175px;
+    width: 300px;
+    font-size: 25px !important;
+    font-weight: 600;
+}
+.gray-font{
+    font-family: 'Courier New', Courier, monospace; 
+    color: gray;
+    font-weight: 600;
+}
