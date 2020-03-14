@@ -15,7 +15,7 @@ const interpretResponse = (res) => {
     for (let i = 0; i < 100; i++) {
         adjectivesList.push(res[randomNum].word);
     }
-    output.innerHTML= `Are you ${adjectivesList[randomNum]} ${input.value}?`
+    output.innerHTML= `Am I looking at ${adjectivesList[randomNum]} ${input.value}?`
 }
 
 
